@@ -1,4 +1,4 @@
-# HMM
+# Catalan Part-of-Speech Tagger
 Hidden Markov Model based part-of-speech tagger for Catalan language.
 
 - Developed a Hidden Markov Model based part-of-speech tagger for Catalan language.
