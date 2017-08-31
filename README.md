@@ -5,7 +5,7 @@ Hidden Markov Model based part-of-speech tagger for Catalan language.
 - Implemented Viterbi algorithm for decoding the most likely sequence of tags.
 - Performed add-one smoothing on the transition probabilities from training and ignored the emission probabilities of unknown tokens during testing.
 
-Core Technology: Python & JSON.
+Core Technology: Python, JSON.
 
 # Data
 The corpus used is an adaptation from the Catalan portion of WikiCorpus v. 1.0, as follows:
